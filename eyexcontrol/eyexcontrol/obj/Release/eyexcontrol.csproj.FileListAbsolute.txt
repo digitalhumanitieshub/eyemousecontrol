@@ -1,0 +1,5 @@
+\\eeefshome\eeestaff\THOMAAMZ\SharpDevelop Projects\eyexcontrol\eyexcontrol\obj\Release\eyexcontrol.csprojResolveAssemblyReference.cache
+\\eeefshome\eeestaff\THOMAAMZ\SharpDevelop Projects\eyexcontrol\eyexcontrol\obj\Release\eyexcontrol.MainForm.resources
+\\eeefshome\eeestaff\THOMAAMZ\SharpDevelop Projects\eyexcontrol\eyexcontrol\obj\Release\eyexcontrol.csproj.GenerateResource.Cache
+\\eeefshome\eeestaff\THOMAAMZ\SharpDevelop Projects\eyexcontrol\eyexcontrol\bin\Release\eyexcontrol.exe
+\\eeefshome\eeestaff\THOMAAMZ\SharpDevelop Projects\eyexcontrol\eyexcontrol\obj\Release\eyexcontrol.exe
