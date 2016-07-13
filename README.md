@@ -4,6 +4,8 @@
 
 EyeMouseControl is a simple system tray app for Windows to turn on and off the EyeXMouse driver for Tobii eye trackers, released under the MIT License (see LICENSE.md). The main reason we at the Digital Humanities Hub developed it was to make it easier for artists to more easily turn on and off Tobii EyeX mouse control. The EyeXMouse open source project (see Credits) provides an easy means to do that, but for people with accessibility needs it can be a little fiddly to switch between eye tracking and a normal mouse. So, a simple app to streamline EyeXMouse use for artists with disabilities seemed a good idea.
 
+![A screenshot of the working code](./screenshot.png)
+
 ##Using EyeMouseControl
 
 Being an open source project EyeMouseControl requires knowledge of compiling computer code. However, if you are reasonably proficient at using computers you should be able to get the app compiled, and ready to use, without too much trouble and effort. But, if you are unable to do so you could try asking your IT engineer or a tech-savvy friend to help you.
